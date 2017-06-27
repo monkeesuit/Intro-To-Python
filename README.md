@@ -59,7 +59,11 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 
-
+
+
+
+
+
 Lesson 1:
 interactive python, variables, simple I/O, numbers, strings, lists, tuples, range, if, for, while
 
