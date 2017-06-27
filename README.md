@@ -2,6 +2,7 @@
 A workshop that introduces Python to beginners
 
 Email - sam640@nyu.edu
+
 Slides - https://github.com/monkeesuit/Intro-To-Python
 
 Resources:
