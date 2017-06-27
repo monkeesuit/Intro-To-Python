@@ -60,14 +60,14 @@ https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-scienc
 
 
 
-Lesson 1
+Lesson 1:
 interactive python, variables, simple I/O, numbers, strings, lists, tuples, range, if, for, while
 
 	Programming:
 		> fizz buzz
 		> printing primes
 
-Lesson 2
+Lesson 2:
 IDE, dictionaries, functions, scope, file I/O
 
 	Programming:
@@ -75,14 +75,14 @@ IDE, dictionaries, functions, scope, file I/O
     		> palindromes
 		> fibonacci numbers 
 
-Lesson 3
+Lesson 3:
 import statement and builtin libraries: math, random, datetime, csv; OOP
 
 	Programming:
 		> Accounting
 		> CalendarClock
 
-Lesson 4
+Lesson 4:
 pip; numpy/matplotlib/pandas intro. 
  
 	Programming:
