@@ -15,22 +15,22 @@ def check_words(word1, word2):
     dict1 = {}
     dict2 = {}
 
-    for i in word1:
-        if i not in dict1:
-            dict1[i] = 0
+    for i in word1:             # Iterate over the letters of word1
+        if i not in dict1:      # If we haven't seen the letter before 
+            dict1[i] = 1        # Make an entry and initialize its count to 1 
         else:
-            dict1[i] += 1
+            dict1[i] += 1       # Else increment the count
 
     for i in word2:
         if i not in dict2:
-            dict2[i] = 0
+            dict2[i] = 1
         else:
             dict2[i] += 1
 
-    if dict1 == dict2:
-        return True
-    else:
-        return False
+    if dict1 == dict2:          # If the words have the same number of each letter
+        return True             # They are anagrams
+    else: 
+        return False            # Else they are not
 
 def main():
     print('This script checks if two words are anagrams of each other.')
