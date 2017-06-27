@@ -34,8 +34,7 @@ Python for Data Analysis
 http://www3.canisius.edu/~yany/python/Python4DataAnalysis.pdf
 
 Data Science From Scratch
-http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20F
-irst%20Principles%20with%20Python.pdf
+http://file.allitebooks.com/20150707/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python.pdf
 
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
 
