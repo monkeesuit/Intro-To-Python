@@ -76,7 +76,7 @@ IDE, dictionaries, functions, scope, file I/O
 
 	Programming:
 		> anagrams 
-    		> palindromes
+    	> palindromes
 		> fibonacci numbers 
 
 Lesson 3:
